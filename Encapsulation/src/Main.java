@@ -3,6 +3,7 @@ public class Main {
     /*
     Encapsulation = bir sınıfın detaylarını yani özelliklerini başka bir sınıftan gizlemektir.
     bunin için bir sınıfın özelliklerini public dğeil private olarak tanımlıyorduk (B u genel oalrak uncapsulation özetidir.)
+    //Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
     
     */
     public static void main(String[] args) {
